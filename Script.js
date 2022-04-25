@@ -24,7 +24,7 @@ function botao(){
         oi.innerHTML = 'Ta sentido esse cheiro? Acho que eh naftanlina. Com um conhecimento de mundo fora do normal e com uma cultura impressionante, é com certeza a pessoa com queria me encontrar se chegasse na cidade hoje. Muito divertida e uma excelente ouvinte, diria que todo mundo precisa de uma Priscila na vida.'
     } 
     else if (nome.value==='Maria Clara'){
-        oi.innerHTML = 'A marvete mais emocionada que eu conheço. Uma caixinha de surpresas, com uma variação de sentimentos e emoções enorme. Meio pessimista e um pouco desacredita, mas altamente dedicada e comprometida, expressa seus sentimentos como poucas. É muito gratificante conviver com você <3 '
+        oi.innerHTML = 'A marvete mais emocionada que eu conheço. Uma caixinha de surpresas, com uma variação de sentimentos e emoções enorme. Meio pessimista e um pouco desacreditada, mas altamente dedicada e comprometida, expressa seus sentimentos como poucas. É muito gratificante conviver com você <3 '
     } 
     else if (nome.value==='Guilherme'){
         oi.innerHTML = 'Vou tentar ser o mais preciso que eu puder, para você entender. Muito inteligente e criativo, sempre da um migué falando que não entendeu e tudo mais, mas tem uma capacidade incrivel de aprender e entender as coisas. As vezes um pouco distraído, mas é isso que forma sua persnalidade leve e divertida. '
